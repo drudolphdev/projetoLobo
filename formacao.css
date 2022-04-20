@@ -76,7 +76,6 @@
     font-size: 1.125rem;
     color: #a3a3a3;
 }
-
 .cursos {
     margin-bottom: 60px;
 }
@@ -115,7 +114,6 @@
     display: flex;
     justify-content: space-between;
 }
-
 @media (max-width: 800px) {
     .formacao-container{
         grid-template-columns: 1fr;

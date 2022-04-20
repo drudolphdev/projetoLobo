@@ -6,7 +6,6 @@
     grid-template-columns: 1fr 2fr;
     gap: 100px;
 }
-
 .experiencia .subtitulo {
     color: #e0e0e0;
 }
@@ -17,11 +16,9 @@
     margin-bottom: 60px;
     color: #525252;
 }
-
 .experiencia-texto strong {
     color: #141414;
 }
-
 .empresa {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -41,7 +38,6 @@
     position: absolute;
     top: 20px;
     left: -4px;
-
 }
 .empresa-ano {
     position: absolute;
@@ -52,7 +48,6 @@
     width: 70px;
     text-align: right;
 }
-
 .empresa-titulo {
     font-size: 1.125rem;
     line-height: 1.1;
@@ -94,7 +89,6 @@
         text-align: left;
     }
 }
-
 @media (max-width: 400px) {
     .empresa{
         grid-template-columns: 1fr;
